@@ -1,0 +1,80 @@
+{
+  "html": {
+    "lang": "en",
+    "title": "David Kabre Nacro",
+    "description": "Follow me on all my socials",
+    "favicon": "/favicon.svg"
+  },
+  "background": {
+    "firstColor": "#124281",
+    "secondColor": "#e58BC2"
+  },
+  "header": {
+    "image": "/profile.webp",
+    "alt": "The owner of this website.",
+    "title": "David Nacro",
+    "description": "CEO & founder of FYVE STUDIO PRO",
+    "textColor": "white"
+  },
+  "socials": [
+    {
+      "network": "GitHub",
+      "username": "davidncr.dev",
+      "url": "https://github.com/davidncr.dev"
+    },
+    {
+      "network": "LinkedIn",
+      "username": "David Kabre Nacro",
+      "url": "https://www.linkedin.com/in/david-kabre-nacro-267886226/overlay/about-this-profile/?trk=opento_sprofile_topcard"
+    },
+    {
+      "network": "Instagram",
+      "username": "_davidncr",
+      "url": "https://www.instagram.com/_davidncr"
+    },
+    {
+      "network": "Mail",
+      "username": "David Nacro",
+      "url": "mailto:davidnacro@fyvestudio.pro"
+    }
+  ],
+  "featured": [],
+  "buttons": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/davidncr.dev",
+      "title": "Check my GitHub",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/david-kabre-nacro-267886226/overlay/about-this-profile/?trk=opento_sprofile_topcard",
+      "title": "Connect with me on LinkedIn",
+      "textColor": "#FFF",
+      "backgroundColor": "#0077B5",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Instagram",
+      "url": "https://www.instagram.com/_davidncr",
+      "title": "Follow me on Instagram",
+      "textColor": "#FFF",
+      "backgroundColor": "#C13584",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Mail",
+      "url": "mailto:davidnacro@fyvestudio.pro",
+      "title": "Email me",
+      "textColor": "#FFF",
+      "backgroundColor": "#D14836",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "©2024 Fyve studio media pro - Davidncr.dev",
+    "url": "https://instagram.com/_davidncr"
+  }
+}
